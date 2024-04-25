@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/brunch/wp-content/plugins/query-monitor/wp-content/db.php
